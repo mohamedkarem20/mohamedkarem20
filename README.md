@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Mohamed Karem
 
 🎯 **Applied AI & Data Analysis Engineer**
-💡 Passionate about turning data into insights & building intelligent systems
+💡 Turning data into insights & building intelligent systems
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Graduate of Faculty of Commerce
-* 🤖 Focused on **Machine Learning, Deep Learning & Data Analysis**
-* 📊 Love working with data, extracting insights, and solving real-world problems
-* 🧠 Currently learning advanced AI topics & building real projects
+* 🤖 Specialized in **Machine Learning, Deep Learning & Computer Vision**
+* 📊 Passionate about Data Analysis & Business Intelligence
+* 🧠 Continuously learning and building real-world AI projects
 
 ---
 
@@ -19,8 +18,6 @@
 ### 👨‍💻 Programming & Data
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=Python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square\&logo=Pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square\&logo=NumPy)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square\&logo=MySQL)
 
 ### 🤖 AI / ML
@@ -29,7 +26,18 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square\&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square\&logo=PyTorch)
 
-### 📊 Data Visualization
+### 👁️ Computer Vision
+
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square\&logo=OpenCV)
+
+### 📊 Data Analysis & BI
+
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square\&logo=Pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square\&logo=NumPy)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square\&logo=PowerBI)
+![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=flat-square\&logo=Microsoft)
+
+### 📈 Visualization
 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square)
@@ -49,10 +57,17 @@
 
 ---
 
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+
+---
+
 ## 📌 Featured Projects
 
-* 📊 Data Analysis Projects (Exploratory Data Analysis, Dashboards)
+* 📊 Data Analysis Projects (EDA, Dashboards, Power BI Reports)
 * 🤖 Machine Learning Models (Regression, Classification)
+* 👁️ Computer Vision Projects (Image Processing, Detection)
 * 🧠 Deep Learning Experiments (Neural Networks, NLP)
 
 ---
@@ -66,4 +81,4 @@
 
 ## ⚡ Fun Fact
 
-I enjoy solving problems, learning new technologies, and turning ideas into real AI applications 🚀
+I enjoy solving complex problems and transforming data into smart AI solutions 🚀
