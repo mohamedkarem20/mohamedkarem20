@@ -1,72 +1,196 @@
-# 😎 Hey! Nice to see you.
+# Hi, I'm Mohamed Karem 👋
 
-Welcome to my page!
-I'm **Mohamed Karem**, **Data Analysis & Applied AI Engineer**.
-Passionate about **Data Analysis, Business Intelligence, Machine Learning & Computer Vision**.
+### Data Analyst | Business Intelligence | Applied AI
 
----
+I’m a **Data Analyst** focused on transforming raw data into clear, actionable insights that support smarter business decisions.
 
-## 🚀 Things I work with
+My work combines **Data Analytics, Business Intelligence, and Applied AI**, with hands-on experience in data cleaning, exploratory analysis, statistical analysis, data visualization, dashboard development, machine learning, and AI-driven solutions.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=Python\&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square\&logo=MySQL)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square\&logo=PowerBI)
-![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E?style=flat-square\&logo=Microsoft)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square\&logo=Pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square\&logo=NumPy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square)
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square\&logo=TensorFlow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square\&logo=PyTorch)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square\&logo=scikit-learn)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square\&logo=OpenCV)
-![AI Agent](https://img.shields.io/badge/-AI%20Agent-00C853?style=flat-square)
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square\&logo=React)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square\&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square\&logo=CSS3)
-![Git](https://img.shields.io/badge/-Git-F44D27?style=flat-square\&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=GitHub)
+I enjoy turning complex datasets into meaningful insights, identifying patterns and trends, and translating analytical results into practical business recommendations.
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 About Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false"/>
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&label=Views\&labelColor=555555\&color=90EE90\&style=flat-square)
-
----
-
-## 📂 Open Source Projects
-
-| 🎁 Projects                | ⭐ Stars | 🍴 Forks | 📊 Type            |
-| -------------------------- | ------- | -------- | ------------------ |
-| Customer Churn Prediction  | ⭐       | 🍴       | Data Analysis / ML |
-| Sales Dashboard (Power BI) | ⭐       | 🍴       | Data Analysis      |
-| Face Detection System      | ⭐       | 🍴       | Computer Vision    |
+* 📊 Data Analyst focused on **Data Analytics & Business Intelligence**
+* 🤖 Building expertise in **Applied AI, Machine Learning & Deep Learning**
+* 📈 Experienced in **Power BI, SQL, Advanced Excel, Python & DAX**
+* 🧹 Passionate about **Data Cleaning, EDA & Data Quality**
+* 🧠 Interested in applying AI to real-world data and business problems
+* 💼 Strong business foundation through **Accounting & Financial Analysis**
+* 🎯 Currently focused on growing as a **Data Analyst / BI Professional**
 
 ---
 
-## 🧠 My Focus
+## 🛠️ Technical Skills
 
-* 📊 Data Analysis & Business Intelligence
-* 🤖 Machine Learning & Deep Learning
-* 👁️ Computer Vision
-* 🤖 AI Agents
+### 📊 Data Analytics & BI
+
+`Power BI` `DAX` `Power Query` `Advanced Excel` `Data Modeling` `KPI Development` `Business Intelligence`
+
+### 🐍 Python & Data Science
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `Jupyter`
+
+### 🗄️ Data & Databases
+
+`SQL` `SQL Server` `Data Cleaning` `Data Transformation` `Exploratory Data Analysis` `Statistical Analysis`
+
+### 🤖 Artificial Intelligence
+
+`Machine Learning` `Deep Learning` `Artificial Intelligence` `Computer Vision` `Image Processing` `Neural Networks`
+
+### ☁️ Microsoft & Data Certifications
+
+* **Microsoft Certified: Power BI Data Analyst (PL-300)**
+* **Microsoft Certified: Azure Data Fundamentals (DP-900)**
 
 ---
 
-## 🌐 Connect with me
+## 📌 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-karem-mahmoud)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square\&logo=Gmail\&logoColor=white)](mailto:mohamedkarem19600@gmail.com)
+### 🏥 Hospital Management System — Data Mining & Analytics
+
+An end-to-end healthcare data project combining:
+
+`SQL Server` `Data Cleaning` `EDA` `Data Mining` `Orange` `Power BI`
+
+Designed to transform healthcare data into meaningful analytical insights and interactive dashboards.
 
 ---
 
-🔥 *Turning data into decisions, and ideas into intelligent systems.*
+### 📉 Customer Churn Prediction
+
+An end-to-end machine learning project focused on identifying customers at risk of churn.
+
+`Python` `Pandas` `Scikit-learn` `EDA` `Feature Selection` `Machine Learning` `Streamlit`
+
+The project covers data preprocessing, exploratory analysis, feature selection, model development, evaluation, and deployment.
+
+---
+
+### 🤖 Applied AI & Machine Learning Projects
+
+Exploring practical applications of:
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Image Processing
+* Neural Networks
+
+with a focus on solving real-world problems using data and AI.
+
+---
+
+## 📈 My Data Analytics Workflow
+
+```text
+Raw Data
+    ↓
+Data Cleaning & Transformation
+    ↓
+Exploratory Data Analysis
+    ↓
+Statistical Analysis
+    ↓
+Data Modeling
+    ↓
+Visualization & KPI Development
+    ↓
+Business Insights
+    ↓
+Actionable Recommendations
+```
+
+For AI and Machine Learning projects:
+
+```text
+Data
+ ↓
+Preprocessing
+ ↓
+EDA & Feature Engineering
+ ↓
+Feature Selection
+ ↓
+Model Development
+ ↓
+Evaluation
+ ↓
+Deployment
+ ↓
+Applied AI Solution
+```
+
+---
+
+## 💼 Business + Data Perspective
+
+My background in **Accounting and Finance** gives me an additional perspective when working with business data.
+
+I understand not only how to analyze the numbers, but also the business questions behind them — including:
+
+* Financial Reporting
+* Budgeting
+* Cost Analysis
+* Performance Analysis
+* KPI Analysis
+* Business Decision Support
+
+This allows me to bridge the gap between **technical analysis and business needs**.
+
+---
+
+## 🎯 Current Focus
+
+I’m currently focused on developing my career in:
+
+**Data Analytics → Business Intelligence → Applied AI**
+
+while continuously expanding my skills in:
+
+`Machine Learning` `Deep Learning` `Computer Vision` `Advanced Analytics` `AI Applications`
+
+---
+
+## 📚 Certifications
+
+🏅 **Microsoft Certified: Power BI Data Analyst — PL-300**
+
+🏅 **Microsoft Certified: Azure Data Fundamentals — DP-900**
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true\&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+I’m open to opportunities in:
+
+* Data Analyst
+* Junior Data Analyst
+* BI Analyst
+* Business Intelligence Analyst
+* Financial Data Analyst
+* AI / Data Analyst
+
+If you're interested in **Data Analytics, Business Intelligence, or Applied AI**, feel free to connect.
+
+**LinkedIn:** YOUR_LINKEDIN_URL
+**Portfolio:** YOUR_PORTFOLIO_URL
+**Email:** YOUR_EMAIL
+
+---
+
+### Turning Data into Insights.
+
+### Turning Insights into Decisions.
+
+### Turning AI into Practical Solutions. 🚀
