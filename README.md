@@ -1,196 +1,151 @@
-# Hi, I'm Mohamed Karem 👋
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h3 align="center">Data Analyst | Business Intelligence | Applied AI</h3>
 
-### Data Analyst | Business Intelligence | Applied AI
+<p align="center">
+  I turn raw data into clear, actionable insights that support smarter business decisions.
+</p>
 
-I’m a **Data Analyst** focused on transforming raw data into clear, actionable insights that support smarter business decisions.
-
-My work combines **Data Analytics, Business Intelligence, and Applied AI**, with hands-on experience in data cleaning, exploratory analysis, statistical analysis, data visualization, dashboard development, machine learning, and AI-driven solutions.
-
-I enjoy turning complex datasets into meaningful insights, identifying patterns and trends, and translating analytical results into practical business recommendations.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-blue" />
+  <img src="https://img.shields.io/badge/Extension-Applied%20AI-informational" />
+  <img src="https://img.shields.io/badge/Certified-PL--300-orange" />
+  <img src="https://img.shields.io/badge/Certified-DP--900-lightgrey" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👤 About Me
 
-* 📊 Data Analyst focused on **Data Analytics & Business Intelligence**
-* 🤖 Building expertise in **Applied AI, Machine Learning & Deep Learning**
-* 📈 Experienced in **Power BI, SQL, Advanced Excel, Python & DAX**
-* 🧹 Passionate about **Data Cleaning, EDA & Data Quality**
-* 🧠 Interested in applying AI to real-world data and business problems
-* 💼 Strong business foundation through **Accounting & Financial Analysis**
-* 🎯 Currently focused on growing as a **Data Analyst / BI Professional**
+I'm a Data Analyst specializing in transforming raw data into clear, actionable insights that support smarter business decisions.
+
+I'm certified in **Microsoft Power BI Data Analyst (PL-300)** and **Microsoft Azure Data Fundamentals (DP-900)**, and I work daily with Power BI, SQL, Python, and Excel to clean, model, and visualize data for real business questions.
+
+Beyond analytics, I have a technical background in **Machine Learning, Deep Learning, and Computer Vision**, which I use to extend traditional BI work into predictive and applied AI solutions.
+
+I also bring **two years of accounting and finance experience**, giving me a practical understanding of the business context behind the numbers — not just the data itself.
+
+---
+
+## 🎯 What I Do
+
+- 📊 Design interactive **dashboards and reports** that drive business decisions
+- 🧹 Clean, transform, and model data for reliable analysis
+- 📈 Perform **exploratory data analysis** and statistical analysis to uncover trends
+- 🤖 Build **applied AI/ML models** to extend analytics into prediction
+- 💼 Bridge the gap between **data teams and business stakeholders**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 📊 Data Analytics & BI
+**Data Analytics & BI**
+`Power BI` `DAX` `Power Query` `Power Pivot` `Excel (Advanced)` `Data Modeling` `KPI Development`
 
-`Power BI` `DAX` `Power Query` `Advanced Excel` `Data Modeling` `KPI Development` `Business Intelligence`
-
-### 🐍 Python & Data Science
-
+**Programming & Data Science**
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `Jupyter`
 
-### 🗄️ Data & Databases
+**Databases**
+`SQL` `SQL Server`
 
-`SQL` `SQL Server` `Data Cleaning` `Data Transformation` `Exploratory Data Analysis` `Statistical Analysis`
+**Artificial Intelligence**
+`Machine Learning` `Deep Learning` `Computer Vision` `Image Processing` `Neural Networks`
 
-### 🤖 Artificial Intelligence
-
-`Machine Learning` `Deep Learning` `Artificial Intelligence` `Computer Vision` `Image Processing` `Neural Networks`
-
-### ☁️ Microsoft & Data Certifications
-
-* **Microsoft Certified: Power BI Data Analyst (PL-300)**
-* **Microsoft Certified: Azure Data Fundamentals (DP-900)**
+**Data & Analytics Methods**
+`EDA` `Data Cleaning` `Data Transformation` `Statistical Analysis` `Data Visualization` `Data Mining`
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🏥 Hospital Management System — Data Mining & Analytics
+### 🔹 Customer Churn Prediction
+End-to-end machine learning project to identify customers likely to churn, enabling proactive retention strategies.
 
-An end-to-end healthcare data project combining:
+**Highlights:**
+- Structured feature-selection pipeline (Variance Threshold, Correlation Analysis, VIF, Mutual Information, ANOVA, Chi-Square, Random Forest Importance, RFE, Consensus Ranking)
+- Full workflow: data cleaning → EDA → preprocessing → classification → model evaluation
+- Deployed as an interactive **Streamlit** app
 
-`SQL Server` `Data Cleaning` `EDA` `Data Mining` `Orange` `Power BI`
-
-Designed to transform healthcare data into meaningful analytical insights and interactive dashboards.
-
----
-
-### 📉 Customer Churn Prediction
-
-An end-to-end machine learning project focused on identifying customers at risk of churn.
-
-`Python` `Pandas` `Scikit-learn` `EDA` `Feature Selection` `Machine Learning` `Streamlit`
-
-The project covers data preprocessing, exploratory analysis, feature selection, model development, evaluation, and deployment.
+**Tech:** Python · Pandas · Scikit-learn · Streamlit
+[View Project](PROJECT_LINK)
 
 ---
 
-### 🤖 Applied AI & Machine Learning Projects
+### 🔹 Hospital Management System — Data Mining & Analytics
+End-to-end healthcare analytics project combining database design with data mining and BI reporting.
 
-Exploring practical applications of:
+**Highlights:**
+- Designed and queried a relational database in **SQL Server**
+- Applied data mining techniques using **Orange Data Mining**
+- Built interactive **Power BI dashboards** for operational insights
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Image Processing
-* Neural Networks
-
-with a focus on solving real-world problems using data and AI.
+**Tech:** SQL Server · Orange Data Mining · Power BI
+[View Project](PROJECT_LINK)
 
 ---
 
-## 📈 My Data Analytics Workflow
+📁 More Data Analytics, Machine Learning, and visualization projects are available on my GitHub — explore my pinned repositories below.
 
-```text
-Raw Data
-    ↓
-Data Cleaning & Transformation
-    ↓
-Exploratory Data Analysis
-    ↓
-Statistical Analysis
-    ↓
-Data Modeling
-    ↓
-Visualization & KPI Development
-    ↓
-Business Insights
-    ↓
-Actionable Recommendations
+---
+
+## 🔄 Data Analytics Workflow
+
+```
+Raw Data → Data Cleaning → Transformation → EDA → Modeling → Visualization → Business Insight
 ```
 
-For AI and Machine Learning projects:
-
-```text
-Data
- ↓
-Preprocessing
- ↓
-EDA & Feature Engineering
- ↓
-Feature Selection
- ↓
-Model Development
- ↓
-Evaluation
- ↓
-Deployment
- ↓
-Applied AI Solution
-```
+I follow a structured, repeatable process — from messy raw data to a dashboard or model a business can actually act on.
 
 ---
 
-## 💼 Business + Data Perspective
+## 🤖 Applied AI / Machine Learning Focus
 
-My background in **Accounting and Finance** gives me an additional perspective when working with business data.
+Applied AI is a technical extension of my core analytics work, not a separate direction. I use ML and computer vision to:
 
-I understand not only how to analyze the numbers, but also the business questions behind them — including:
-
-* Financial Reporting
-* Budgeting
-* Cost Analysis
-* Performance Analysis
-* KPI Analysis
-* Business Decision Support
-
-This allows me to bridge the gap between **technical analysis and business needs**.
+- Build predictive models (e.g., churn, classification problems)
+- Apply structured feature selection and model evaluation
+- Explore computer vision and image processing fundamentals
+- Deploy models as accessible tools (e.g., Streamlit apps)
 
 ---
 
-## 🎯 Current Focus
+## 💼 Business + Data Advantage
 
-I’m currently focused on developing my career in:
+My background in **accounting and finance** (2 years of professional experience in financial reporting, budgeting, cost analysis, auditing support, and performance analysis) means I don't just analyze data — I understand the business questions behind it.
 
-**Data Analytics → Business Intelligence → Applied AI**
-
-while continuously expanding my skills in:
-
-`Machine Learning` `Deep Learning` `Computer Vision` `Advanced Analytics` `AI Applications`
+This combination allows me to translate technical findings into insights that make sense to stakeholders and decision-makers.
 
 ---
 
-## 📚 Certifications
+## 🎓 Certifications
 
-🏅 **Microsoft Certified: Power BI Data Analyst — PL-300**
-
-🏅 **Microsoft Certified: Azure Data Fundamentals — DP-900**
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
+- **Microsoft Certified: Power BI Data Analyst — PL-300**
+- **Microsoft Certified: Azure Data Fundamentals — DP-900**
 
 ---
 
-## 🤝 Let's Connect
+## 📌 Current Focus
 
-I’m open to opportunities in:
-
-* Data Analyst
-* Junior Data Analyst
-* BI Analyst
-* Business Intelligence Analyst
-* Financial Data Analyst
-* AI / Data Analyst
-
-If you're interested in **Data Analytics, Business Intelligence, or Applied AI**, feel free to connect.
-
-**LinkedIn:** YOUR_LINKEDIN_URL
-**Portfolio:** YOUR_PORTFOLIO_URL
-**Email:** YOUR_EMAIL
+- Strengthening expertise in **Business Intelligence** and dashboard design
+- Expanding applied **Machine Learning and Deep Learning** skills
+- Exploring **Computer Vision** through hands-on projects
+- Building a portfolio that bridges **Data Analytics and Applied AI**
 
 ---
 
-### Turning Data into Insights.
+## 📊 GitHub Stats
 
-### Turning Insights into Decisions.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" height="165"/>
+</p>
 
-### Turning AI into Practical Solutions. 🚀
+---
+
+## 📬 Let's Connect
+
+- 💼 LinkedIn: [LINKEDIN_URL](LINKEDIN_URL)
+- 🌐 Portfolio: [PORTFOLIO_URL](PORTFOLIO_URL)
+- 📧 Email: YOUR_EMAIL@example.com
+- 🐙 GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+
+<p align="center"><i>Data Analytics & BI at the core — Applied AI as the extension.</i></p>
