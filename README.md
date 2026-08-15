@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/mohamed-karem-mahmoud"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mohamedkarem19600@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/mohamedkarem20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -162,16 +162,21 @@ A repeatable process — from messy raw data to a dashboard or model a business 
 |---|---|
 | 🏅 **Power BI Data Analyst — PL-300** | Microsoft |
 | 🏅 **Azure Data Fundamentals — DP-900** | Microsoft |
+| 📄 **Foundations: Data, Data, Everywhere** | Google (Coursera) |
+| 📄 **Ask Questions to Make Data-Driven Decisions** | Google (Coursera) |
+| 📄 **Process Data from Dirty to Clean** | Google (Coursera) |
+| 📄 **Prepare Data for Exploration** | Google (Coursera) |
+| 📄 **Delivering Quality Work with Agility** | IBM (Coursera) |
 
 ---
 
 ## 📈 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedkarem20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedkarem20&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedkarem20&theme=tokyo-night&hide_border=true" width="90%"/>
 </div>
 
 ---
@@ -191,7 +196,7 @@ A repeatable process — from messy raw data to a dashboard or model a business 
 
 <a href="https://www.linkedin.com/in/mohamed-karem-mahmoud"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mohamedkarem19600@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/mohamedkarem20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://karem-portfolio-kj3k.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 <br/><br/>
